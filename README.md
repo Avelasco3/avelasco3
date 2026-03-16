@@ -1,5 +1,5 @@
 ## Mi Perfil Estudiantil
-# Andres Felipe Velaco Portilla
+# Andres Felipe Velasco Portilla
 - Estudiante de 4to semestres de Ing. de Sistemas
 - Practica de Desarrollo de Software
 - Aprendiendo: Python, JavaScript, C++
