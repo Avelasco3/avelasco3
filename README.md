@@ -24,17 +24,19 @@ Focus on:
 
 ---
 
-### Contact me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-<a href="https://github.com/avelasco3/avelasco3/" target="blue"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://wa.me/573212186238"><img align="center" alt="WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/785/785969.png" /></a>
-<a href="https://www.instagram.com/andres_fvp_?igsh=d212ZHdwNnhkMXo4" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="Instagram" height="20" width="20" /></a>
-<a href="mailto:adfportilla@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="email" height="20" width="20" /></a>
+<a href="mailto:adfportilla@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/avelasco3"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/573212186238"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.facebook.com/andresfelipe.velascoportilla"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/andres_fvp_?igsh=d212ZHdwNnhkMXo4"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
  
 ### Lenguages
+
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
