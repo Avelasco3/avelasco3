@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Avelasco3&label=Profile%20views&color=00D4FF&style=plastic">
  
 <p align="center">
-<img src= https://scontent.fctg1-4.fna.fbcdn.net/v/t39.30808-6/656974880_1721651592586534_4972705975723955494_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeGbFprN_mPQZ_qc7IC2BUVKOypFIKfVs5I7KkUgp9WzkoINeioWR2aWHyeItTn7uDPmi2gcid17LwOeyOXZpZHZ&_nc_ohc=ujqnKx7qJf0Q7kNvwE4TGie&_nc_oc=AdpXIrOXsYJu3g0RTFIC90pYjHNYGFaRXclb6qL6K5Oz6PbeYH2jK5BFVqBtTpVhy7s&_nc_zt=23&_nc_ht=scontent.fctg1-4.fna&_nc_gid=l8hMefymXvbhqS8pFfEu_Q&_nc_ss=7a32e&oh=00_Afxw7nmp4aqmtY39uiaPGysB9luPR5XOh7tmGDr1ZHAhNQ&oe=69C73173 width="200">
+<img src= https://github.com/Avelasco3/avelasco3/blob/413ce4044692fbb9f3fdd2fe6b6bcb14bc77e95f/git_hub.jpg width="200">
 </p>
 
 <p align="center">
